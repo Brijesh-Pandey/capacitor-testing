@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/capacitor-testing/static/css/main.dff89ef5.css",
-    "main.js": "/capacitor-testing/static/js/main.a93522b8.js",
+    "main.js": "/capacitor-testing/static/js/main.e64a9e9a.js",
     "static/js/443.4d4f4f5f.chunk.js": "/capacitor-testing/static/js/443.4d4f4f5f.chunk.js",
     "static/js/738.98e3095b.chunk.js": "/capacitor-testing/static/js/738.98e3095b.chunk.js",
     "static/js/372.546e1232.chunk.js": "/capacitor-testing/static/js/372.546e1232.chunk.js",
@@ -20,9 +20,10 @@
     "static/js/55.b7b7df1a.chunk.js": "/capacitor-testing/static/js/55.b7b7df1a.chunk.js",
     "static/js/76.0ffa845e.chunk.js": "/capacitor-testing/static/js/76.0ffa845e.chunk.js",
     "static/js/868.58cd3451.chunk.js": "/capacitor-testing/static/js/868.58cd3451.chunk.js",
+    "static/js/315.41d9e4d7.chunk.js": "/capacitor-testing/static/js/315.41d9e4d7.chunk.js",
     "index.html": "/capacitor-testing/index.html",
     "main.dff89ef5.css.map": "/capacitor-testing/static/css/main.dff89ef5.css.map",
-    "main.a93522b8.js.map": "/capacitor-testing/static/js/main.a93522b8.js.map",
+    "main.e64a9e9a.js.map": "/capacitor-testing/static/js/main.e64a9e9a.js.map",
     "443.4d4f4f5f.chunk.js.map": "/capacitor-testing/static/js/443.4d4f4f5f.chunk.js.map",
     "738.98e3095b.chunk.js.map": "/capacitor-testing/static/js/738.98e3095b.chunk.js.map",
     "372.546e1232.chunk.js.map": "/capacitor-testing/static/js/372.546e1232.chunk.js.map",
@@ -40,10 +41,11 @@
     "157.4d6cf094.chunk.js.map": "/capacitor-testing/static/js/157.4d6cf094.chunk.js.map",
     "55.b7b7df1a.chunk.js.map": "/capacitor-testing/static/js/55.b7b7df1a.chunk.js.map",
     "76.0ffa845e.chunk.js.map": "/capacitor-testing/static/js/76.0ffa845e.chunk.js.map",
-    "868.58cd3451.chunk.js.map": "/capacitor-testing/static/js/868.58cd3451.chunk.js.map"
+    "868.58cd3451.chunk.js.map": "/capacitor-testing/static/js/868.58cd3451.chunk.js.map",
+    "315.41d9e4d7.chunk.js.map": "/capacitor-testing/static/js/315.41d9e4d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dff89ef5.css",
-    "static/js/main.a93522b8.js"
+    "static/js/main.e64a9e9a.js"
   ]
 }
