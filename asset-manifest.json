@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/capacitor-testing/static/css/main.7da18515.css",
-    "main.js": "/capacitor-testing/static/js/main.3e45765d.js",
+    "main.css": "/capacitor-testing/static/css/main.dff89ef5.css",
+    "main.js": "/capacitor-testing/static/js/main.a93522b8.js",
     "static/js/443.4d4f4f5f.chunk.js": "/capacitor-testing/static/js/443.4d4f4f5f.chunk.js",
     "static/js/738.98e3095b.chunk.js": "/capacitor-testing/static/js/738.98e3095b.chunk.js",
     "static/js/372.546e1232.chunk.js": "/capacitor-testing/static/js/372.546e1232.chunk.js",
@@ -21,8 +21,8 @@
     "static/js/76.0ffa845e.chunk.js": "/capacitor-testing/static/js/76.0ffa845e.chunk.js",
     "static/js/868.58cd3451.chunk.js": "/capacitor-testing/static/js/868.58cd3451.chunk.js",
     "index.html": "/capacitor-testing/index.html",
-    "main.7da18515.css.map": "/capacitor-testing/static/css/main.7da18515.css.map",
-    "main.3e45765d.js.map": "/capacitor-testing/static/js/main.3e45765d.js.map",
+    "main.dff89ef5.css.map": "/capacitor-testing/static/css/main.dff89ef5.css.map",
+    "main.a93522b8.js.map": "/capacitor-testing/static/js/main.a93522b8.js.map",
     "443.4d4f4f5f.chunk.js.map": "/capacitor-testing/static/js/443.4d4f4f5f.chunk.js.map",
     "738.98e3095b.chunk.js.map": "/capacitor-testing/static/js/738.98e3095b.chunk.js.map",
     "372.546e1232.chunk.js.map": "/capacitor-testing/static/js/372.546e1232.chunk.js.map",
@@ -43,7 +43,7 @@
     "868.58cd3451.chunk.js.map": "/capacitor-testing/static/js/868.58cd3451.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7da18515.css",
-    "static/js/main.3e45765d.js"
+    "static/css/main.dff89ef5.css",
+    "static/js/main.a93522b8.js"
   ]
 }
