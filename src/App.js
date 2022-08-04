@@ -5,14 +5,19 @@ Git - https://bitbucket.org/__brijesh/
 
 import React from "react";
 
-import Kyc from "./components"
+import {
+  Kyc,
+  DigioFlow
+} from "./components"
+
 
 import styled from "styled-components";
 
 const App = () => {
   return (
     <ComponentsWrapper>
-      <Kyc />
+      {/* <Kyc /> */}
+      <DigioFlow />
     </ComponentsWrapper>
   );
 };

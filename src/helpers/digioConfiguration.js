@@ -7,7 +7,9 @@ Git - https://bitbucket.org/__brijesh/
 
 const options = {
   environment: "sandbox",
-  Is_redirection_approach: false,
+  Is_redirection_approach: true,
+  // callback: (digioResponse) => console.log(),
+  is_iframe: true,
   logo : "https://i.wlycdn.com/emails/wealthy-logo-email.png",
   theme : {
     primaryColor : "#AB3498",
