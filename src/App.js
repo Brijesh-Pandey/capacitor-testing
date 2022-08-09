@@ -6,9 +6,10 @@ Git - https://bitbucket.org/__brijesh/
 import React from "react";
 
 import {
-  Kyc,
-  DigioFlow
-} from "./components"
+  DigioFlow,
+  Facefinder,
+  Kyc
+} from "./components";
 
 
 import styled from "styled-components";
@@ -17,7 +18,8 @@ const App = () => {
   return (
     <ComponentsWrapper>
       {/* <Kyc /> */}
-      <DigioFlow />
+      {/* <DigioFlow /> */}
+      <Facefinder />
     </ComponentsWrapper>
   );
 };

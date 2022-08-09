@@ -3,9 +3,9 @@ Author - Brijesh Pandey
 Git - https://bitbucket.org/__brijesh/
 **/
 
-import React, {useEffect} from "react";
+import React, { useEffect } from "react";
 
-import {digioInitialization} from "helpers";
+import { digioInitialization } from "helpers";
 
 import DigioFlow from "./DigioFlow";
 
@@ -15,9 +15,9 @@ const DigioFlowContainer = () => {
   }, []);
 
   const kycData = {
-    requestId: "KID220804130946510V8631I6CWN3W4G",
+    requestId: "KID220809115850458MYSPFI64YJHNBO",
     identifier: "brijeshpandey18@gmail.com",
-    tokenId: "GWT22080413094652833CMUPFSU9N3TX"
+    tokenId: "GWT220809115850502BOE4UUD1AUJ77U"
   };
 
   const handleDigioInitialization  = () => {
