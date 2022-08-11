@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import styled from "styled-components";
 import camvas from './camvas';
 import pico from './Pico';
 
@@ -109,10 +110,17 @@ const ReactPico = ({
   };
 
     return (
-      <div>
+      <CanvasContainer>
         <canvas ref={canvasRef} width={640} height={480} style={{visibility: 'visible'}}></canvas>
-      </div>
-    )
+      </CanvasContainer>
+    );
 }
+
+const CanvasContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+`;
 
 export default ReactPico;

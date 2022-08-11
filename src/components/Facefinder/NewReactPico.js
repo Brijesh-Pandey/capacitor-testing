@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import camvas from './camvas';
 import pico from './Pico';
+import styled from "styled-components";
 
 const rgba_to_grayscale = (rgba, nrows, ncols) => {
   const gray = new Uint8Array(nrows*ncols);
@@ -86,11 +87,19 @@ class ReactPico extends Component {
   };
   render() {
     return (
-      <div>
+      <CanvasContainer>
         <canvas ref={this.canvasRef} width={640} height={480} style={{visibility: 'visible'}}></canvas>
-      </div>
-    )
-  }
-}
+      </CanvasContainer>
+    );
+  };
+};
+
+const CanvasContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  transform: scaleX(-1) ;
+`;
 
 export default ReactPico;

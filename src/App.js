@@ -19,7 +19,7 @@ const App = () => {
     <ComponentsWrapper>
       {/* <Kyc /> */}
       {/* <DigioFlow /> */}
-      <Facefinder />
+      {/* <Facefinder /> */}
     </ComponentsWrapper>
   );
 };
