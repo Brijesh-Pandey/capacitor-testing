@@ -15,9 +15,9 @@ const DigioFlowContainer = () => {
   }, []);
 
   const kycData = {
-    requestId: "KID2208101342120023ICGYK86INA6IF",
-    identifier: "brijeshpandey18@gmail.com",
-    tokenId: "GWT220810134212021LQSWLNCWHHOFBV"
+    requestId: "KID221013161506033DOYEH9WK9U59UL",
+    identifier: "ibhatia1998@gmail.com",
+    tokenId: "GWT2210131615060796KNULH2FISY9S1"
   };
 
   const handleDigioInitialization  = () => {
